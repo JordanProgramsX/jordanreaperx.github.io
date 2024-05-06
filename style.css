@@ -1,5 +1,5 @@
 @font-face {
-    font-family: coc;
+    font-family: Jacquard 12 Charted;
     src: url("Jacquard12Charted-Regular.woff2");
   }
 
@@ -17,7 +17,7 @@ body {
     background: url("c018d58c56d662585a6f62fea218ce2f.png") no-repeat fixed;
     background-position: center; 
     background-size: cover;
-    font-family: "coc";
+    font-family: "Jacquard 12 Charted";
 }
 
 #wrapper {
