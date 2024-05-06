@@ -12,8 +12,8 @@
 }
 
 body {
-    width: 100vw;
-    height: 100vh;
+    width: 200vw;
+    height: 200vh;
     background: url("c018d58c56d662585a6f62fea218ce2f.png") no-repeat fixed;
     background-position: center; 
     background-size: cover;
